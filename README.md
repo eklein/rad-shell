@@ -1,6 +1,6 @@
 # Rad Shell
 
-![rad-shell logo](./rad-shell-logo.png)
+![rad-shell logo](./rad-shell-logo-small.png)
 
 A fantastically feature rich, lightening-fast shell, using
 [Zsh](http://www.zsh.org/), [Prezto](https://github.com/sorin-ionescu/prezto),
